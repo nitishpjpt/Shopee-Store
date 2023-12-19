@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+* live preveiew of website > https://e-commerce-store-nitish.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
