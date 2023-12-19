@@ -1,0 +1,10 @@
+@media (max-width: 600px){
+    
+    .Discount .box{      
+      width: 20vw;
+      padding: 10px;
+      display: block;
+      justify-content: space-between;
+      align-items: center;
+    }
+}

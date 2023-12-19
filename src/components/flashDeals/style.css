@@ -1,0 +1,17 @@
+@media (max-width: 600px) {
+  .box2 .product {
+    position: relative;
+    width: 90vw;
+    height: 50vh;
+    
+  }
+  .box2 img {
+    position: absolute;
+    right: 2rem;
+    width: 70vw;
+  }
+  .box2 .product-details {
+    position: absolute;
+    top: 16rem;
+  }
+}
